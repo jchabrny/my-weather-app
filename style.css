@@ -1,0 +1,104 @@
+body {
+  font-family: "Amatic SC", cursive;
+  font-family: "Spartan", sans-serif;
+  background-image: url(images/canyon.jpg);
+  max-width: 50%;
+  margin: 35px;
+}
+
+h1,
+p {
+  color: lightblue;
+  text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+}
+
+h2,
+h3 {
+  color: pink;
+  text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+}
+
+h1,
+h3 {
+  font-size: 27px;
+}
+
+h2 {
+  font-size: 100px;
+}
+
+p {
+  font-size: 23px;
+}
+
+header {
+  position: relative;
+  top: 20px;
+  left: 780px;
+}
+
+footer {
+  padding-left: 530px;
+  font-size: 20px;
+  text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+}
+
+.d-flex {
+  background: transparent;
+}
+
+.navbar container-fluid {
+  padding: 0px;
+}
+
+.btn {
+  background-color: lightblue;
+  color: #198754;
+}
+
+.myname {
+  position: relative;
+  left: 940px;
+  top: -60px;
+}
+
+.current-date {
+  position: relative;
+  left: 410px;
+  top: -110px;
+}
+
+.currentTemperature {
+  position: relative;
+  top: 110px;
+  left: 470px;
+}
+
+.current-weather-icon {
+  font-size: 400px;
+  color: pink;
+  opacity: 0.5;
+  position: relative;
+  left: 620px;
+  top: -420px;
+}
+
+.wrapper-currentCity {
+  position: relative;
+  bottom: 430px;
+  left: 410px;
+}
+
+.temperatureSpan {
+  font-size: 20px;
+}
+
+.wrapperForecast {
+  position: relative;
+  top: -430px;
+  left: 175px;
+}
+
+.row {
+  color: lightblue;
+}
