@@ -93,6 +93,13 @@ footer {
   font-size: 20px;
 }
 
+.coded {
+  font-size: 14px;
+  position: relative;
+  top: 70px;
+  right: 935px;
+}
+
 .wrapperForecast {
   position: relative;
   top: -430px;
