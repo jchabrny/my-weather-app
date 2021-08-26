@@ -1,7 +1,7 @@
 body {
   font-family: "Amatic SC", cursive;
   font-family: "Spartan", sans-serif;
-  background-image: url(images/canyon.jpg);
+  background-image: url(../images/canyon.jpg);
   max-width: 50%;
   margin: 35px;
 }
