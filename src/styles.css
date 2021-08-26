@@ -58,8 +58,14 @@ footer {
 
 .myname {
   position: relative;
-  left: 940px;
-  top: -60px;
+  left: 200px;
+  top: -30px;
+  color: pink;
+  font-weight: 250px;
+}
+
+.link:hover {
+  color: pink;
 }
 
 .current-date {
@@ -85,19 +91,12 @@ footer {
 
 .wrapper-currentCity {
   position: relative;
-  bottom: 430px;
+  bottom: 480px;
   left: 410px;
 }
 
 .temperatureSpan {
   font-size: 20px;
-}
-
-.coded {
-  font-size: 14px;
-  position: relative;
-  top: 70px;
-  right: 935px;
 }
 
 .wrapperForecast {
